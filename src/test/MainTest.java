@@ -6,7 +6,7 @@ public class MainTest {
     public static void main(String[] args) {
         System.out.println("==========================================");
         System.out.println("    EMPLOYEE MANAGEMENT SYSTEM - DEMO    ");
-        System.out.println("    Student: Nada Mamdouh Kamel (ID: 2300340)");
+        System.out.println("    Student: Khadiga mohamed ali (ID: 2300183)");
         System.out.println("==========================================");
 
         Department csDepartment = new Department(101, "Software Engineering");
